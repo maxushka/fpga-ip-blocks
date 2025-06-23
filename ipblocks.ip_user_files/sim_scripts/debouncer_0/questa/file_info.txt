@@ -1,0 +1,3 @@
+debouncer.sv,systemverilog,work,../../../../ipblocks.gen/sources_1/ip/debouncer_0/debouncer.sv,
+debouncer_0.sv,systemverilog,work,../../../../ipblocks.gen/sources_1/ip/debouncer_0/sim/debouncer_0.sv,
+glbl.v,Verilog,work,glbl.v
